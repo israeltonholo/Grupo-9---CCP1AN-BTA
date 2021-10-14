@@ -48,7 +48,7 @@ Assim que aprovado por pelo menos duas pessoas do seu grupo e o Linter estiver a
 
 # Sobre o Projeto
 
-Programa baseado em web para gerenciamento e vendas para pizzaria de pequeno e médio porte.
+Programa com o objetivo de ser um gerenciador de vendas para pizzarias, onde terá...
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -68,20 +68,26 @@ Programa baseado em web para gerenciamento e vendas para pizzaria de pequeno e m
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [ ] **Cadastrar funcionários**
+- [ ] **Cadastrar clientes**
+- [ ] **Cadastrar pedidos**
+- [ ] **Cadastrar produtos**
+- [ ] **Gerenciar sttatus do pedido**
+- [ ] **Gerenciar estoque**
+- [ ] **Gerenciar pagamento**
+- [ ] **Gerenciar fluxo de caixa**
+- [ ] **Gerenciar entregas**
+- [ ] **Enviar email**
+- [ ] **Realizar login**
+- [ ] **Recuperar senha**
 
 # Tecnologias Usadas
 
+- [JavaScript](https://www.javascript.com)
 - [Flutter](https://flutter.dev/)
+- [Java](https://www.java.com/pt-BR/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 # Contribuição
 
@@ -89,7 +95,11 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+[Israel Tonholo Medeiros](https://github.com/israeltonholo)
+[Caio Filipe Santos Oliveira ](https://github.com/CaioFilipeSantos)
+[Davi Silva Dias ](https://github.com/Davi86)
+[Arthur Prudencio Silva](https://github.com/ArthurPrudencioSilva)
+[Celso Teofilo da Silva ](https://github.com/celsoteofilo)
 
 # Licença
 
@@ -97,4 +107,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Nossos agradecimentos ao professor Diego que sempre nós apoio em todos os momentos e nos ensinou a sempre buscar evoluir todos os dias.
