@@ -1,4 +1,4 @@
-# Grupo-9---CCP1AN-BTA
+# NineGroupWeb
 Projeto final do curso de modelagem de dados referente ao app de gerenciamento de pizzaria
 
 Clone o repositório
@@ -41,14 +41,14 @@ Não se preocupe em preencher mais nada por enquanto!
 Volte até a página de Pull Requests do repositório e confira que o seu Pull Request está criado
 Assim que aprovado por pelo menos duas pessoas do seu grupo e o Linter estiver adereçado, acesse SEU Pull Request e clique no botão "Merge pull request"
 
-# Título do Projeto
+# Smart Pizza
 
 
 ![Capa do Projeto](https://coolicias.ao/wp-content/uploads/2019/11/Receita-de-Pizza-de-Pepperoni-na-Fritadeira-El%C3%A9trica-1200x800.jpg)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Programa baseado em web para gerenciamento e vendas para pizzaria de pequeno e médio porte.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
