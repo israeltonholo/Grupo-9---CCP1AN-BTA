@@ -68,8 +68,8 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
+- [x] Cadastrar Usuário
+- [x] Fazer Login
 - [ ] Matricular em Curso
 - [ ] Cancelar Matricula
 - [ ] Visualizar Notas
