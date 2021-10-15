@@ -96,9 +96,13 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 # Autores
 
 [Israel Tonholo Medeiros](https://github.com/israeltonholo)
+
 [Caio Filipe Santos Oliveira ](https://github.com/CaioFilipeSantos)
+
 [Davi Silva Dias ](https://github.com/Davi86)
+
 [Arthur Prudencio Silva](https://github.com/ArthurPrudencioSilva)
+
 [Celso Teofilo da Silva ](https://github.com/celsoteofilo)
 
 # Licença
