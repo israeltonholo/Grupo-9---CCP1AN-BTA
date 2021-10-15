@@ -1,4 +1,4 @@
-# Grupo-9---CCP1AN-BTA
+# NineGroupWeb
 Projeto final do curso de modelagem de dados referente ao app de gerenciamento de pizzaria
 
 Clone o repositório
@@ -41,14 +41,14 @@ Não se preocupe em preencher mais nada por enquanto!
 Volte até a página de Pull Requests do repositório e confira que o seu Pull Request está criado
 Assim que aprovado por pelo menos duas pessoas do seu grupo e o Linter estiver adereçado, acesse SEU Pull Request e clique no botão "Merge pull request"
 
-# Título do Projeto
+# Smart Pizza
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://coolicias.ao/wp-content/uploads/2019/11/Receita-de-Pizza-de-Pepperoni-na-Fritadeira-El%C3%A9trica-1200x800.jpg)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Programa com o objetivo de ser um gerenciador de vendas para pizzarias, onde terá...
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -68,21 +68,26 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
+- [ ] **Cadastrar funcionários**
+- [ ] **Cadastrar clientes**
+- [ ] **Cadastrar pedidos**
+- [ ] **Cadastrar produtos**
+- [ ] **Gerenciar sttatus do pedido**
+- [ ] **Gerenciar estoque**
+- [ ] **Gerenciar pagamento**
+- [ ] **Gerenciar fluxo de caixa**
+- [ ] **Gerenciar entregas**
+- [ ] **Enviar email**
+- [ ] **Realizar login**
+- [ ] **Recuperar senha**
 
-- [ ] Cadastrar Usuário
-- [ ] Fazer Login
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
-- [ ]  TESTE CELSO 
 # Tecnologias Usadas
 
+- [JavaScript](https://www.javascript.com)
 - [Flutter](https://flutter.dev/)
+- [Java](https://www.java.com/pt-BR/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 # Contribuição
 
@@ -90,7 +95,15 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+[Israel Tonholo Medeiros](https://github.com/israeltonholo)
+
+[Caio Filipe Santos Oliveira ](https://github.com/CaioFilipeSantos)
+
+[Davi Silva Dias ](https://github.com/Davi86)
+
+[Arthur Prudencio Silva](https://github.com/ArthurPrudencioSilva)
+
+[Celso Teofilo da Silva ](https://github.com/celsoteofilo)
 
 # Licença
 
@@ -98,4 +111,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Nossos agradecimentos ao professor Diego que sempre nós apoio em todos os momentos e nos ensinou a sempre buscar evoluir todos os dias.
