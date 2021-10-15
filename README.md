@@ -74,7 +74,7 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 - [ ] Cancelar Matricula
 - [ ] Visualizar Notas
 - [ ] Visualizar e Atualizar Informações do Estudante
-
+- [ ]  TESTE CELSO 
 # Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
