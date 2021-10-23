@@ -111,4 +111,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Nossos agradecimentos ao professor Diego que sempre nós apoio em todos os momentos e nos ensinou a sempre buscar evoluir todos os dias.
+Nossos agradecimentos ao professor Diego que sempre nos apoiou em todos os momentos e nos ensinou a sempre buscar evoluir todos os dias.
